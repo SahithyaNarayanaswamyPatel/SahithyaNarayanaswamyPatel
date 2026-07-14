@@ -9,7 +9,7 @@ Data & AI Engineer pursuing an M.Sc. in Digital Engineering (Data Science) at Ot
 **Tech Stack:** Python • SQL • Azure • Databricks • PySpark • PyTorch • Hugging Face • NLP • LLMs • Power BI
 
 📫 **LinkedIn:** www.linkedin.com/in/sahithya-patel
-## ✍️ Technical Writing
 
-📖 Check out my articles on Hashnode:
-https://your-publication.hashnode.devhttps://hashnode.com/@sahithyanpatel
+
+📚 **Blog:** https://your-publication.hashnode.devhttps://hashnode.com/@sahithyanpatel
+
