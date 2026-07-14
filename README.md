@@ -8,4 +8,4 @@ Data & AI Engineer pursuing an M.Sc. in Digital Engineering (Data Science) at Ot
 
 **Tech Stack:** Python • SQL • Azure • Databricks • PySpark • PyTorch • Hugging Face • NLP • LLMs • Power BI
 
-📫 **LinkedIn:** linkedin.com/in/sahithya-patel
+📫 **LinkedIn:** www.linkedin.com/in/sahithya-patel
