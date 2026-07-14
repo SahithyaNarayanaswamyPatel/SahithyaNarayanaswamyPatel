@@ -11,5 +11,5 @@ Data & AI Engineer pursuing an M.Sc. in Digital Engineering (Data Science) at Ot
 📫 **LinkedIn:** www.linkedin.com/in/sahithya-patel
 
 
-📚 **Blog:** https://your-publication.hashnode.devhttps://hashnode.com/@sahithyanpatel
+📚 **Technical Blog:** https://your-publication.hashnode.devhttps://hashnode.com/@sahithyanpatel
 
