@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sahithya
+# Hi there! I'm Sahithya
 
 Data & AI Engineer pursuing an M.Sc. in Digital Engineering (Data Science) at Otto-von-Guericke University, Germany.
 
